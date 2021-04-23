@@ -12,7 +12,7 @@ jobs:
     name: Compile and Push Firmware
     runs-on: ubuntu-latest
     env:
-      BOARD: CREALITY_V4
+      BOARD: STM32F103RET6_creality
 
     steps:
       - name: Check out repo
