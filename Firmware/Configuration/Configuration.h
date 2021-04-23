@@ -31,7 +31,7 @@
  * - Printer geometry
  * - Endstop configuration
  * - LCD controller
- * - Extra features
+ * - Extra featuress
  *
  * Advanced settings can be found in Configuration_adv.h
  */
